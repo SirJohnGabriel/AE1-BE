@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=AE1
+%uri=https://github.com/SirJohnGabriel/AE1-BE
+
+identity_schema 2025-09-30T00:00:00Z Gab <j.g.pagtalunan14@gmail.com> # Create initial identity schema with users, roles, and relationships using varchar for user_status
+role_claims_for_roles [identity_schema] 2025-09-30T00:00:00Z Gab <j.g.pagtalunan14@gmail.com> # Add role claims for Admin and User roles
